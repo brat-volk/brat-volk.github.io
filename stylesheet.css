@@ -60,15 +60,11 @@ body{
 	line-height: 100vh;
 }
 .Animazione{
-	
-	width: 15px;
-	height: 3px;
-	background-color: white;
+	font-size:18px;
+	line-height: 99.2vh;
 	animation-name: Animazione1;
 	animation-duration: 1s;
     animation-iteration-count: infinite;
-	margin-top: 53vh;
-	margin-left: 2px;
 }
 
 article{
