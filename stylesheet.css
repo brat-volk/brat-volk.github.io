@@ -31,7 +31,7 @@ nav{
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 46px;
+  padding: 14px 5vw;
   text-decoration: none;
 }
 
@@ -129,11 +129,14 @@ button:hover{
 }
 
 .div1{
-	margin-left: 45vw;
+	margin-left: 42.5vw;
+	margin-right: 550px;
 	line-height: 40px;
 	display:flex;
 }
 
-p{
-	
+.p1{
+	text-align:center;
+	margin-top:0;
+	float:left;
 }
