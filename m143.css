@@ -1,0 +1,29 @@
+
+
+@keyframes m143{
+	100%	{transform: rotate(360deg);}
+}
+.container{
+	display: flexbox;
+}
+.animdiv{
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-image: url(m143.png);
+	color:white;
+	margin-left:40vw;
+	margin-top:30vh;
+	width: 20vw;
+	height: 40vh;
+	position: relative;
+	animation-name: m143;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-timing-function: ease;
+	text-align:center;
+	font-size:8vh;
+	line-height:35vh;
+}
+body{
+	background-color:black;
+}
